@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1763307685 source:c:\raylib\teste\main.c
+	<stdio.h>
+	"raylib.h"
+

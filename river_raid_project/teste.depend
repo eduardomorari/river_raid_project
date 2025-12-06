@@ -3,8 +3,12 @@
 	<stdio.h>
 	"raylib.h"
 
-1763824626 source:c:\raylib\river_raid_project-main\river_raid_project\main.c
+1765055232 source:c:\raylib\river_raid_project-main\river_raid_project\main.c
 	<stdio.h>
 	"raylib.h"
 	<string.h>
+	<stdlib.h>
+
+1764271155 source:c:\raylib\river_raid_project-main\river_raid_project\testesgerais.c
+	<stdio.h>
 
